@@ -1,0 +1,11 @@
+/whatsapp-api
+├── app.js                    # Inicializa servidor > Codigo Encaminhado
+├── sessions/
+│   └── SessionManager.js     # Cria, gerencia e armazena instâncias > Codigo Encaminhado
+├── api/
+│   └── routes.js             # Rotas REST para controle externo > Codigo Encaminhado
+├── config/
+│   └── webhook-map.json      # Mapeamento sessão → endpoint SaaS > Falta encaminhar o codigo
+├── utils/
+│   └── formatters.js         # Utilitários (formatação de número, logs, etc)  > Falta encaminhar o codigo
+└── package.json  > Falta encaminhar o codigo

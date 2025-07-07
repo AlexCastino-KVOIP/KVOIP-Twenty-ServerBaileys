@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang='pt-br'>
+<head>
+  <meta charset='UTF-8'>
+  <title>QRCode Sessão <%= sessionId %></title>
+  <style>
+    body{font-family:sans-serif;text-align:center;margin-top:40px;}
+    #qrcode svg{
+      margin:auto;
+      display:block;
+      width: 200px !important;
+      height: 200px !important;
+      max-width: 100vw;
+      max-height: 100vw;
+    }
+  </style>
+</head>
+<body>
+  <h2>Escaneie o QRCode da sessão <span id='sessao'><%= sessionId %></span>:</h2>
+  <div id='qrcode'>Carregando QRCode...</div>
+  <script>
+    const sessionId = '<%= sessionId %>';
+    async function fetchQr() {
+      const qrcodeDiv = document.getElementById('qrcode');
+      try {
+        const res = await fetch(`/api/session/` + sessionId + `/qr-image`);
+        if (!res.ok) throw new Error('QR Code não disponível');
+        const data = await res.json();
+        qrcodeDiv.innerHTML = data.svg;
+        const svg = qrcodeDiv.querySelector('svg');
+        if (svg) {
+          svg.removeAttribute('width');
+          svg.removeAttribute('height');
+          svg.style.width = '100px';
+          svg.style.height = '100px';
+        }
+      } catch (e) {
+        qrcodeDiv.innerHTML = 'QR Code não disponível';
+      }
+    }
+    fetchQr();
+    setInterval(fetchQr, 5000);
+  </script>
+</body>
+</html> 

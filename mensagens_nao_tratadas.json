@@ -1,0 +1,3154 @@
+[
+  {
+    "data": "2025-07-02T22:19:14.379Z",
+    "sessao": "5511953142057",
+    "usuario": "5511913792005@s.whatsapp.net",
+    "nome": "Alex Castino",
+    "payload": {
+      "key": {
+        "remoteJid": "5511913792005@s.whatsapp.net",
+        "fromMe": false,
+        "id": "232A8D0F7F0F40F974AEBA6EF1665EB6"
+      },
+      "messageTimestamp": 1751494753,
+      "pushName": "Alex Castino",
+      "broadcast": false,
+      "message": {
+        "documentMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7119-24/10000000_718820184350698_6801679992212022856_n.enc?ccb=11-4&oh=01_Q5Aa1wHg7I9kRGAHuJl3Zixn0ZHh4GmwVPWtM33IpesUiGQQxw&oe=688D1470&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "application/pdf",
+          "fileSha256": "GOhHkPTpiNADTMRO4sDpCEPG9XVCnVED8XjY+Rzl6Ec=",
+          "fileLength": "87971113",
+          "pageCount": 12,
+          "mediaKey": "KpaiK9LfjJgkf1UvN25GMvLG6Su+WfbUZUDlXZlb68c=",
+          "fileName": "Follow up 02.07 - Projeto Woulz.pdf",
+          "fileEncSha256": "GkUm2B7R0JowuP40TL12on3YEADlue82AahtVAtkFk4=",
+          "directPath": "/v/t62.7119-24/10000000_718820184350698_6801679992212022856_n.enc?ccb=11-4&oh=01_Q5Aa1wHg7I9kRGAHuJl3Zixn0ZHh4GmwVPWtM33IpesUiGQQxw&oe=688D1470&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1751494733",
+          "thumbnailDirectPath": "/v/t62.36145-24/11865567_1054578779980654_8829523311751003290_n.enc?ccb=11-4&oh=01_Q5Aa1wECog_LGTiZ0wjCzNthAkLUKJxBN_nUoYwR-W_wVjN7hw&oe=688D27C0&_nc_sid=5e03e0",
+          "thumbnailSha256": "6W5g93HD3z1zA08C06LXJRD3Zwtf4OVwbbOrN4ssmgo=",
+          "thumbnailEncSha256": "3RbS/7BOhfGJ8Hu6hOjUNX5ut2W6ja62Eqpd70Nr08s=",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABERERESERMVFRMaHBkcGiYjICAjJjoqLSotKjpYN0A3N0A3WE5fTUhNX06MbmJiboyiiIGIosWwsMX46/j///8BERERERIRExUVExocGRwaJiMgICMmOiotKi0qOlg3QDc3QDdYTl9NSE1fToxuYmJujKKIgYiixbCwxfjr+P/////CABEIADYAYAMBIgACEQEDEQH/xAAxAAADAQEBAQAAAAAAAAAAAAAAAgMBBgUEAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAOFpEKvHAkAA3NHujFZr6rn9cOlc+FvuCrlpdEBzzDuCm1W6vR1v49MvXnxBBvsmBqJVaVsl11s+vPVzoGniAADAOlQW/wBFwnstQF1f/8QAMBAAAgIBAgQDBAsAAAAAAAAAAQIAEQMEBRITUpEQIoEhQlGSFCAwMTVBYXGCsdH/2gAIAQEAAT8AQKWAZqH5mZEwqaXIWH7QJpzV5iP43CBZoz1nrPWV+sqVKlfYgQCBZwzBhyZ8qYsYt2NAR9r1qKWOMUDR8wibVrnsLiBIJFcQv2GoNo15y8oYvPxBasfeZmw5MGQ48gph4gQCAQLAs0au+qwomTgZmoN8Lg23XKqou4grDotff4l7eODbtfjLOm4+Y0TR6IdiyPbHVCyfeh2Aqpb6VjlUYBFEAgWBYCQbBnNy9bd5zcvW3ec3L1t3nNy9bd5zcnW3eCKIoiiAQCIoZwpNdh/cOnA98fMv+zlN8V+YQggkHwEEWKIogEA+sIIsWLBBP//EABcRAQADAAAAAAAAAAAAAAAAABEAIED/2gAIAQIBAT8Auxwf/8QAIhEAAwABAwMFAAAAAAAAAAAAAAECAxESFBBRUiAxcZGh/9oACAEDAQE/ANVt02r59CQpIxXa1lHHy9l9nHy9v0SJkUCbXs2bq8mKq8mSiJJnqiDGSf/Z",
+          "thumbnailHeight": 270,
+          "thumbnailWidth": 480
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "titdDBeNn5jwTw==",
+            "senderTimestamp": "1751467928",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "oPWcxmVCYP8jOyysM3XLWAIAIYP7Stx44b2gwh3jwWI="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-02T22:24:47.704Z",
+    "sessao": "5511953142057",
+    "usuario": "5511913792005@s.whatsapp.net",
+    "nome": "Alex Castino",
+    "payload": {
+      "key": {
+        "remoteJid": "5511913792005@s.whatsapp.net",
+        "fromMe": false,
+        "id": "579513D5900E1122D9D677851198002C"
+      },
+      "messageTimestamp": 1751495086,
+      "pushName": "Alex Castino",
+      "broadcast": false,
+      "message": {
+        "documentMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7119-24/31864978_4122624374661863_3560990303745654991_n.enc?ccb=11-4&oh=01_Q5Aa1wF5ALsjz5sC5jJSOTXE9ZacR-jvybH1qAtO3XF7O7oxrQ&oe=688D1431&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "application/pdf",
+          "fileSha256": "OrQJwwo8v2No4qNtKq4bBO7Gwoh6f2bikpxPAs/LIok=",
+          "fileLength": "66655",
+          "pageCount": 1,
+          "mediaKey": "Xrwk888EOmmr3L6NLmaUlJI9eLXU822caTsuLvcA8ZU=",
+          "fileName": "Integracao-Alex.pdf",
+          "fileEncSha256": "s2yoa1J55rqILfzwS5CTn53DcL1ZKEpsgXssUkPwsPc=",
+          "directPath": "/v/t62.7119-24/31864978_4122624374661863_3560990303745654991_n.enc?ccb=11-4&oh=01_Q5Aa1wF5ALsjz5sC5jJSOTXE9ZacR-jvybH1qAtO3XF7O7oxrQ&oe=688D1431&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1751495085",
+          "thumbnailDirectPath": "/v/t62.36145-24/30611232_1199226298557379_4100311413131210580_n.enc?ccb=11-4&oh=01_Q5Aa1wF8MnINfk8kJ8mKVFCyb-d4DjovUgpmRj10mSfhsuofuQ&oe=688D09E5&_nc_sid=5e03e0",
+          "thumbnailSha256": "7Y0L2hOgjV6jAibN9vKqcvGkbDdmvpq2n5hFiGCfrHE=",
+          "thumbnailEncSha256": "LO6VW+iSY8+2tZ2u1YBxmzPp7riJkjI4KGL7kJZ9lLk=",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABERERESERMVFRMaHBkcGiYjICAjJjoqLSotKjpYN0A3N0A3WE5fTUhNX06MbmJiboyiiIGIosWwsMX46/j///8BERERERIRExUVExocGRwaJiMgICMmOiotKi0qOlg3QDc3QDdYTl9NSE1fToxuYmJujKKIgYiixbCwxfjr+P/////CABEIAGAARAMBIgACEQEDEQH/xAAvAAEBAAMBAQAAAAAAAAAAAAAAAQMEBgIFAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADvDUNtKAAAMGfVNpKAAAMWX4G8/fc7Nzo0vLYQA1tnBZPWZUpmgAAebQAAAAAAAB//xAAxEAABAgMEBwYHAAAAAAAAAAABAAIDERIEJGOhEyAhMDFRkgUUQVNxkTJAYXOTouH/2gAIAQEAAT8A3VTBI1QAZ+aUwvIm4NHKRnuK3zmXv6AgZjcD0P5FA4HZ+1W40Uxt0GzD/qAY0SaAB9FMa8Qv0j5F3E+Krfzd7qt3N3uuzzdh6nWNgsrySIlRn4FO7Ls7RxKNigtHwhMY2G2kCQ1mvomRGAP2imEgGp4OSmNfu1n8lnSEYFnAloWdIQhQmmoQ2g8wNe8YeavGHmrzhZq9YWavGHmr1hZ/K//EAB0RAQABBAMBAAAAAAAAAAAAAAEAAhIwURAREzH/2gAIAQIBAT8AxU03TydxOlORT4y6rbm//8QAGxEAAgIDAQAAAAAAAAAAAAAAAREAMBIgUWH/2gAIAQMBAT8AqJUz80QMQ5d//9k=",
+          "thumbnailHeight": 480,
+          "thumbnailWidth": 339
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "titdDBeNn5jwTw==",
+            "senderTimestamp": "1751467928",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "e9/SYkrdz72wamYN7PCNnAJOnCA74p2kgoQoxFx8Xz8="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-02T22:26:45.182Z",
+    "sessao": "5511953142057",
+    "usuario": "5511913792005@s.whatsapp.net",
+    "nome": "Alex Castino",
+    "payload": {
+      "key": {
+        "remoteJid": "5511913792005@s.whatsapp.net",
+        "fromMe": false,
+        "id": "01B74E2FF291DC37F0BFA54EA811567A"
+      },
+      "messageTimestamp": 1751495204,
+      "pushName": "Alex Castino",
+      "broadcast": false,
+      "message": {
+        "audioMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7117-24/26791142_2532116960482056_4389519615522182657_n.enc?ccb=11-4&oh=01_Q5Aa1wEGqkLv15a0VDlQw3nJG8pEKFnz-so8XZyCww4xeokZbw&oe=688D2BD9&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "audio/ogg; codecs=opus",
+          "fileSha256": "bZJXtwnNZwB90LqCUZ7v9OlytAaOkZfpkOdCQKoPYVg=",
+          "fileLength": "4961",
+          "seconds": 2,
+          "ptt": true,
+          "mediaKey": "lkWfu1Rk/Cr9FtIghmGt6aqFaP1raU4DUFtCLTqYMjg=",
+          "fileEncSha256": "hPToEVUPinu4mOajx2374m0zAfv+jgwy5gTOCqHi608=",
+          "directPath": "/v/t62.7117-24/26791142_2532116960482056_4389519615522182657_n.enc?ccb=11-4&oh=01_Q5Aa1wEGqkLv15a0VDlQw3nJG8pEKFnz-so8XZyCww4xeokZbw&oe=688D2BD9&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1751495203",
+          "waveform": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASYxMDAyLCUmIBIBCyItJiAcGRUhJSIZHCAjISEWAAAAAA=="
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "titdDBeNn5jwTw==",
+            "senderTimestamp": "1751467928",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "3dyEqVi2D2X+9Mn8lFeriW0Y2W3VIQlB8EBLko/H6zQ="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-02T22:28:13.121Z",
+    "sessao": "5511953142057",
+    "usuario": "5511913792005@s.whatsapp.net",
+    "nome": "Alex Castino",
+    "payload": {
+      "key": {
+        "remoteJid": "5511913792005@s.whatsapp.net",
+        "fromMe": false,
+        "id": "63366BB3ACD922C12374D8453451C386"
+      },
+      "messageTimestamp": 1751495292,
+      "pushName": "Alex Castino",
+      "broadcast": false,
+      "message": {
+        "audioMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7117-24/31212880_1068172774859378_761059964955609509_n.enc?ccb=11-4&oh=01_Q5Aa1wF1TPwxFxv5oHhHixh7da7fvCqaZ4TiO77fa2fUIGQXxg&oe=688D2A4C&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "audio/ogg; codecs=opus",
+          "fileSha256": "8N25egtn4C3ZExSwgauTWcKB2ADy7pySdcDMvpfVn20=",
+          "fileLength": "5675",
+          "seconds": 2,
+          "ptt": true,
+          "mediaKey": "jIrEEovEflnAOvST+TSN6rh67hKVFjE7f0pA6AlcT0E=",
+          "fileEncSha256": "pAe0xaITAuH+wx+0ZY3UAIn/LOFYYtFl2aDXApN4HCU=",
+          "directPath": "/v/t62.7117-24/31212880_1068172774859378_761059964955609509_n.enc?ccb=11-4&oh=01_Q5Aa1wF1TPwxFxv5oHhHixh7da7fvCqaZ4TiO77fa2fUIGQXxg&oe=688D2A4C&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1751495290",
+          "waveform": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkaCwsLCg0bIyMeGBMCEBocHBwjEAcXIxYcGAwJAQANHikrCwAAAA=="
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "titdDBeNn5jwTw==",
+            "senderTimestamp": "1751467928",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "JoFaHpp3RcrzF+IIH/5tZQUqAzAcEj74+fcdVbecxLU="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:35.556Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": "Leo Garabetti",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3A23289E5B4ECA417090",
+        "participant": "5511991603188@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546075,
+      "pushName": "Leo Garabetti",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:36.008Z",
+    "sessao": "5511953142057",
+    "usuario": "8619106779112@s.whatsapp.net",
+    "nome": null,
+    "payload": {
+      "key": {
+        "remoteJid": "8619106779112@s.whatsapp.net",
+        "fromMe": false,
+        "id": "D215F12BF591FB4C33"
+      },
+      "message": {
+        "templateMessage": {
+          "hydratedFourRowTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/507229515_1454811275948615_424566782787753026_n.enc?ccb=11-4&oh=01_Q5Aa1wFZdUIacQgst3iWVrqmZlxL3Hct4-nyrNAQyMTq1cb42w&oe=688C8176&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Selecionamos especialmente para você\n\nPensamos em você neste item [Placa-mãe para jogos ASUS ROG ...], está disponível em estoque\nVem aqui ver: https://s.click.aliexpress.com/e/_oBpBUPi",
+              "fileSha256": "f2ZrZiRUXi2/3fVqSKBLQEQfeSGlxZt1X6imlc/i4xE=",
+              "fileLength": "37171",
+              "height": 400,
+              "width": 600,
+              "mediaKey": "Yc7C2BBHHPK9KaaZk9/6b0AUwHil09wdFaE5RHO0Nnw=",
+              "fileEncSha256": "wl0I3Hzjcq0mJkjQTrWxTPir/bhJqqz1ibK5qYqmUtY=",
+              "directPath": "/v/t62.7118-24/507229515_1454811275948615_424566782787753026_n.enc?ccb=11-4&oh=01_Q5Aa1wFZdUIacQgst3iWVrqmZlxL3Hct4-nyrNAQyMTq1cb42w&oe=688C8176&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751454854",
+              "thumbnailDirectPath": "/v/t62.35850-24/19966595_1673194400015409_395680040308521877_n.enc?ccb=11-4&oh=01_Q5Aa1wFzpSZRgU4qrH8_sHzEWNd9h4DRtJhzWpYR7e70TjAZOg&oe=688C91A3&_nc_sid=5e03e0",
+              "thumbnailSha256": "d+R1vk6raswJTr98Gy5GAH546St88mflpDYffx4TzlU=",
+              "thumbnailEncSha256": "iPxAcjxV/Sq97GF2lsGN5Xxk6L4GVAdGoizljsqAgGM="
+            },
+            "hydratedContentText": "Selecionamos especialmente para você\n\nPensamos em você neste item [Placa-mãe para jogos ASUS ROG ...], está disponível em estoque\nVem aqui ver: https://s.click.aliexpress.com/e/_oBpBUPi",
+            "hydratedFooterText": "Não tem interesse? Toque em Parar promoções",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Explorar mais",
+                  "url": "https://w.meta.me/s/2VRYo6rK03JjxxY"
+                },
+                "index": 0
+              },
+              {
+                "quickReplyButton": {
+                  "displayText": "Parar promoções",
+                  "id": "1097769838506545155"
+                },
+                "index": 1
+              }
+            ]
+          },
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/507229515_1454811275948615_424566782787753026_n.enc?ccb=11-4&oh=01_Q5Aa1wFZdUIacQgst3iWVrqmZlxL3Hct4-nyrNAQyMTq1cb42w&oe=688C8176&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Selecionamos especialmente para você\n\nPensamos em você neste item [Placa-mãe para jogos ASUS ROG ...], está disponível em estoque\nVem aqui ver: https://s.click.aliexpress.com/e/_oBpBUPi",
+              "fileSha256": "f2ZrZiRUXi2/3fVqSKBLQEQfeSGlxZt1X6imlc/i4xE=",
+              "fileLength": "37171",
+              "height": 400,
+              "width": 600,
+              "mediaKey": "Yc7C2BBHHPK9KaaZk9/6b0AUwHil09wdFaE5RHO0Nnw=",
+              "fileEncSha256": "wl0I3Hzjcq0mJkjQTrWxTPir/bhJqqz1ibK5qYqmUtY=",
+              "directPath": "/v/t62.7118-24/507229515_1454811275948615_424566782787753026_n.enc?ccb=11-4&oh=01_Q5Aa1wFZdUIacQgst3iWVrqmZlxL3Hct4-nyrNAQyMTq1cb42w&oe=688C8176&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751454854",
+              "thumbnailDirectPath": "/v/t62.35850-24/19966595_1673194400015409_395680040308521877_n.enc?ccb=11-4&oh=01_Q5Aa1wFzpSZRgU4qrH8_sHzEWNd9h4DRtJhzWpYR7e70TjAZOg&oe=688C91A3&_nc_sid=5e03e0",
+              "thumbnailSha256": "d+R1vk6raswJTr98Gy5GAH546St88mflpDYffx4TzlU=",
+              "thumbnailEncSha256": "iPxAcjxV/Sq97GF2lsGN5Xxk6L4GVAdGoizljsqAgGM="
+            },
+            "hydratedContentText": "Selecionamos especialmente para você\n\nPensamos em você neste item [Placa-mãe para jogos ASUS ROG ...], está disponível em estoque\nVem aqui ver: https://s.click.aliexpress.com/e/_oBpBUPi",
+            "hydratedFooterText": "Não tem interesse? Toque em Parar promoções",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Explorar mais",
+                  "url": "https://w.meta.me/s/2VRYo6rK03JjxxY"
+                },
+                "index": 0
+              },
+              {
+                "quickReplyButton": {
+                  "displayText": "Parar promoções",
+                  "id": "1097769838506545155"
+                },
+                "index": 1
+              }
+            ]
+          }
+        }
+      },
+      "messageTimestamp": "1751517135",
+      "reportingTokenInfo": {
+        "reportingTag": "AQgRzjP+PKiroVk4tufGYQ=="
+      },
+      "isMentionedInStatus": false
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:36.013Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": null,
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "AB26E63FE94B0407CF"
+      },
+      "message": {
+        "templateMessage": {
+          "hydratedFourRowTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+              "fileSha256": "h7XNvsc9mw0/UZNmHXeF2Dp5ba84PM+uYS3+kFR1F74=",
+              "fileLength": "20655",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "Qhi44k+PrXITTJ8o7IGIW0bQ8goYv2lFJ9j3YnLFQmU=",
+              "fileEncSha256": "t6P/1ttsW97zeSturPoMJVnGl9durwNsJg/RDBTawRk=",
+              "directPath": "/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751356560",
+              "thumbnailDirectPath": "/v/t62.35850-24/33421540_1238613687808615_3746059351154775774_n.enc?ccb=11-4&oh=01_Q5Aa1wFvQiFqs3YNYM0gxIBZC8wRhuEusYRQTstu5L1xTkw3vw&oe=688B0587&_nc_sid=5e03e0",
+              "thumbnailSha256": "mrnUzseYp4n0qKmft9YKYyLrNA7Rde+samIUU5NxZWc=",
+              "thumbnailEncSha256": "w1ouNVEHvK8ViCClEYP9LTfHO370hyBNpC3BcTJtDwQ="
+            },
+            "hydratedContentText": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear pedido",
+                  "url": "https://w.meta.me/s/1OJKUpajzIsA35X"
+                },
+                "index": 0
+              }
+            ]
+          },
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+              "fileSha256": "h7XNvsc9mw0/UZNmHXeF2Dp5ba84PM+uYS3+kFR1F74=",
+              "fileLength": "20655",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "Qhi44k+PrXITTJ8o7IGIW0bQ8goYv2lFJ9j3YnLFQmU=",
+              "fileEncSha256": "t6P/1ttsW97zeSturPoMJVnGl9durwNsJg/RDBTawRk=",
+              "directPath": "/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751356560",
+              "thumbnailDirectPath": "/v/t62.35850-24/33421540_1238613687808615_3746059351154775774_n.enc?ccb=11-4&oh=01_Q5Aa1wFvQiFqs3YNYM0gxIBZC8wRhuEusYRQTstu5L1xTkw3vw&oe=688B0587&_nc_sid=5e03e0",
+              "thumbnailSha256": "mrnUzseYp4n0qKmft9YKYyLrNA7Rde+samIUU5NxZWc=",
+              "thumbnailEncSha256": "w1ouNVEHvK8ViCClEYP9LTfHO370hyBNpC3BcTJtDwQ="
+            },
+            "hydratedContentText": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear pedido",
+                  "url": "https://w.meta.me/s/1OJKUpajzIsA35X"
+                },
+                "index": 0
+              }
+            ]
+          }
+        }
+      },
+      "messageTimestamp": "1751517292",
+      "reportingTokenInfo": {
+        "reportingTag": "AQiyhNQXHiYSU/NhhHFdVA=="
+      },
+      "isMentionedInStatus": false
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:40.956Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Lucas Gomes",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A385B6D4B72C05D29E8",
+        "participant": "5511959326925@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546080,
+      "pushName": "Lucas Gomes",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:46.525Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Sergio Yuri",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AA9FF47066791DC5D94",
+        "participant": "5511960761583@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546086,
+      "pushName": "Sergio Yuri",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:50.476Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A108951E185FB84738E",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546090,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:34:55.644Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AB6AE2834219944C1C3",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546095,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:02.221Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": ".",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3ADBD889EB9FEFBF0522",
+        "participant": "5511960542416@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546102,
+      "pushName": ".",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:17.625Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": ".",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3AA4765F5BF6F768D4C6",
+        "participant": "5511960542416@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546117,
+      "pushName": ".",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:21.512Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Jessica Martins",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A9ADB1C428E4781E8BA",
+        "participant": "5511987488317@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546121,
+      "pushName": "Jessica Martins",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:26.650Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Jessica Martins",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD2A3657D0B7E10A409",
+        "participant": "5511987488317@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546126,
+      "pushName": "Jessica Martins",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:36.704Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "AB26E63FE94B0407CF"
+      },
+      "messageTimestamp": 1751546136,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:37.169Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": null,
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "AB26E63FE94B0407CF"
+      },
+      "message": {
+        "templateMessage": {
+          "hydratedFourRowTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+              "fileSha256": "h7XNvsc9mw0/UZNmHXeF2Dp5ba84PM+uYS3+kFR1F74=",
+              "fileLength": "20655",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "Qhi44k+PrXITTJ8o7IGIW0bQ8goYv2lFJ9j3YnLFQmU=",
+              "fileEncSha256": "t6P/1ttsW97zeSturPoMJVnGl9durwNsJg/RDBTawRk=",
+              "directPath": "/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751356560",
+              "thumbnailDirectPath": "/v/t62.35850-24/33421540_1238613687808615_3746059351154775774_n.enc?ccb=11-4&oh=01_Q5Aa1wFvQiFqs3YNYM0gxIBZC8wRhuEusYRQTstu5L1xTkw3vw&oe=688B0587&_nc_sid=5e03e0",
+              "thumbnailSha256": "mrnUzseYp4n0qKmft9YKYyLrNA7Rde+samIUU5NxZWc=",
+              "thumbnailEncSha256": "w1ouNVEHvK8ViCClEYP9LTfHO370hyBNpC3BcTJtDwQ="
+            },
+            "hydratedContentText": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear pedido",
+                  "url": "https://w.meta.me/s/1OJKUpajzIsA35X"
+                },
+                "index": 0
+              }
+            ]
+          },
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+              "fileSha256": "h7XNvsc9mw0/UZNmHXeF2Dp5ba84PM+uYS3+kFR1F74=",
+              "fileLength": "20655",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "Qhi44k+PrXITTJ8o7IGIW0bQ8goYv2lFJ9j3YnLFQmU=",
+              "fileEncSha256": "t6P/1ttsW97zeSturPoMJVnGl9durwNsJg/RDBTawRk=",
+              "directPath": "/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751356560",
+              "thumbnailDirectPath": "/v/t62.35850-24/33421540_1238613687808615_3746059351154775774_n.enc?ccb=11-4&oh=01_Q5Aa1wFvQiFqs3YNYM0gxIBZC8wRhuEusYRQTstu5L1xTkw3vw&oe=688B0587&_nc_sid=5e03e0",
+              "thumbnailSha256": "mrnUzseYp4n0qKmft9YKYyLrNA7Rde+samIUU5NxZWc=",
+              "thumbnailEncSha256": "w1ouNVEHvK8ViCClEYP9LTfHO370hyBNpC3BcTJtDwQ="
+            },
+            "hydratedContentText": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear pedido",
+                  "url": "https://w.meta.me/s/1OJKUpajzIsA35X"
+                },
+                "index": 0
+              }
+            ]
+          }
+        }
+      },
+      "messageTimestamp": "1751517292",
+      "reportingTokenInfo": {
+        "reportingTag": "AQiyhNQXHiYSU/NhhHFdVA=="
+      },
+      "isMentionedInStatus": false
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:42.161Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A9E3EB690B985F75EB1",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546141,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:47.347Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD39E31E805728D56C3",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546147,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:52.595Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A1E4813835E7016A93A",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546152,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:35:58.201Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "ATTORRY Negão SBgrafs",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "6818B89653E62A3F7C9AB5B190EBE46A",
+        "participant": "5511986322648@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546158,
+      "pushName": "ATTORRY Negão SBgrafs",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:23.961Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "ECF0AA5AF31BB9245D"
+      },
+      "messageTimestamp": 1751546183,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:24.638Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": null,
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "ECF0AA5AF31BB9245D"
+      },
+      "message": {
+        "templateMessage": {
+          "hydratedFourRowTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Pedido saiu do armazém da transportadora*\n\nOlá, Alexander CastinoFeitosa, Seu pedido 8201919389610598 acabou de sair do armazém da transportadora no país/região de destino e está a caminho da entrega. Toque para ver mais atualizações.",
+              "fileSha256": "r1WQNv4awVlVLTXBCAX3WYe671gqImKm13PqxvRC1i4=",
+              "fileLength": "21356",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "gf8MZrKaJ6VXNEyi4ax+VbY959nMUIqPONSRiYUM30E=",
+              "fileEncSha256": "HWJXU2ZsybO9rT47AT7HxKU1ElevIGOmYj6KMEqsPzA=",
+              "directPath": "/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751466582",
+              "thumbnailDirectPath": "/v/t62.35850-24/515548420_1412212859898374_2325349684561078610_n.enc?ccb=11-4&oh=01_Q5Aa1wG-q70bndzkv_WTwLKs8mvu3xBECN2bCDNQSssV8vtppA&oe=688CB757&_nc_sid=5e03e0",
+              "thumbnailSha256": "ZTZTJ6Jwdyx3sWl/Fy+za/zF0BBlIeICvTya1x7S2QA=",
+              "thumbnailEncSha256": "xsaK7L247GHqhnzqUMT8OgH4pgmKVDWMXqaF9CSJ3Wg="
+            },
+            "hydratedContentText": "*Pedido saiu do armazém da transportadora*\n\nOlá, Alexander CastinoFeitosa, Seu pedido 8201919389610598 acabou de sair do armazém da transportadora no país/região de destino e está a caminho da entrega. Toque para ver mais atualizações.",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear entrega",
+                  "url": "https://w.meta.me/s/1Y6loSJxgeYEbaW"
+                },
+                "index": 0
+              }
+            ]
+          },
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "*Pedido saiu do armazém da transportadora*\n\nOlá, Alexander CastinoFeitosa, Seu pedido 8201919389610598 acabou de sair do armazém da transportadora no país/região de destino e está a caminho da entrega. Toque para ver mais atualizações.",
+              "fileSha256": "r1WQNv4awVlVLTXBCAX3WYe671gqImKm13PqxvRC1i4=",
+              "fileLength": "21356",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "gf8MZrKaJ6VXNEyi4ax+VbY959nMUIqPONSRiYUM30E=",
+              "fileEncSha256": "HWJXU2ZsybO9rT47AT7HxKU1ElevIGOmYj6KMEqsPzA=",
+              "directPath": "/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751466582",
+              "thumbnailDirectPath": "/v/t62.35850-24/515548420_1412212859898374_2325349684561078610_n.enc?ccb=11-4&oh=01_Q5Aa1wG-q70bndzkv_WTwLKs8mvu3xBECN2bCDNQSssV8vtppA&oe=688CB757&_nc_sid=5e03e0",
+              "thumbnailSha256": "ZTZTJ6Jwdyx3sWl/Fy+za/zF0BBlIeICvTya1x7S2QA=",
+              "thumbnailEncSha256": "xsaK7L247GHqhnzqUMT8OgH4pgmKVDWMXqaF9CSJ3Wg="
+            },
+            "hydratedContentText": "*Pedido saiu do armazém da transportadora*\n\nOlá, Alexander CastinoFeitosa, Seu pedido 8201919389610598 acabou de sair do armazém da transportadora no país/região de destino e está a caminho da entrega. Toque para ver mais atualizações.",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear entrega",
+                  "url": "https://w.meta.me/s/1Y6loSJxgeYEbaW"
+                },
+                "index": 0
+              }
+            ]
+          }
+        }
+      },
+      "messageTimestamp": "1751544301",
+      "reportingTokenInfo": {
+        "reportingTag": "AQjzB6acm4qTgZexLF8nZQ=="
+      },
+      "isMentionedInStatus": false
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:29.278Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A055FF3AA58F4F52CB7"
+      },
+      "messageTimestamp": 1751546189,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:34.503Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A178944328D829A57ED"
+      },
+      "messageTimestamp": 1751546194,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:39.726Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AF5563730A04992E80A"
+      },
+      "messageTimestamp": 1751546199,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:45.044Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AFEA218E19C5D4C66B6"
+      },
+      "messageTimestamp": 1751546204,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:50.264Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A9E668BEFD3F44422A0"
+      },
+      "messageTimestamp": 1751546210,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:36:55.617Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AF53DDFEE9F044DA9A3"
+      },
+      "messageTimestamp": 1751546215,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:00.822Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A000FE7C9CB2C5AE1BB"
+      },
+      "messageTimestamp": 1751546220,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:06.075Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AFB3FEAF9C115EF8189"
+      },
+      "messageTimestamp": 1751546225,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:11.283Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A488FA905C4E9B65BBA"
+      },
+      "messageTimestamp": 1751546231,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:16.499Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A35232CF35F9C543564"
+      },
+      "messageTimestamp": 1751546236,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:21.847Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A8241F4E6AFE64966D7"
+      },
+      "messageTimestamp": 1751546241,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:27.027Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AE107CA110B7540C9F8"
+      },
+      "messageTimestamp": 1751546246,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:33.566Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AA3BC2E0358CAEEF350"
+      },
+      "messageTimestamp": 1751546253,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:38.152Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A6BE1EFB657A5F4ECB5"
+      },
+      "messageTimestamp": 1751546257,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:43.374Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A2FE9CF8915C90DAB05"
+      },
+      "messageTimestamp": 1751546263,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:48.516Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AABD33FEA627197F87F"
+      },
+      "messageTimestamp": 1751546268,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:37:53.444Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "ATTORRY Negão SBgrafs",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "201207DD7DB9AB5F53C7D6D40DC66D7B",
+        "participant": "5511986322648@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546273,
+      "pushName": "ATTORRY Negão SBgrafs",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:00.381Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": "Leo Garabetti",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3A23289E5B4ECA417090",
+        "participant": "5511991603188@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546279,
+      "pushName": "Leo Garabetti",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:00.769Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A108951E185FB84738E",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:01.145Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AB6AE2834219944C1C3",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:01.304Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Jessica Martins",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A9ADB1C428E4781E8BA",
+        "participant": "5511987488317@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "Jessica Martins",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:01.644Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Jessica Martins",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD2A3657D0B7E10A409",
+        "participant": "5511987488317@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "Jessica Martins",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:01.890Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Sergio Yuri",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AA9FF47066791DC5D94",
+        "participant": "5511960761583@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "Sergio Yuri",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:02.050Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Lucas Gomes",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A385B6D4B72C05D29E8",
+        "participant": "5511959326925@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546281,
+      "pushName": "Lucas Gomes",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:02.064Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "AB26E63FE94B0407CF"
+      },
+      "messageTimestamp": 1751546280,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:02.797Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": ".",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3ADBD889EB9FEFBF0522",
+        "participant": "5511960542416@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546282,
+      "pushName": ".",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:03.253Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": ".",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3AA4765F5BF6F768D4C6",
+        "participant": "5511960542416@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546282,
+      "pushName": ".",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:04.086Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A9E3EB690B985F75EB1",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546283,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:04.403Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD39E31E805728D56C3",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546283,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:04.558Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A1E4813835E7016A93A",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546283,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:04.713Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A055FF3AA58F4F52CB7"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:04.858Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A178944328D829A57ED"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.107Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AF5563730A04992E80A"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.119Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "ECF0AA5AF31BB9245D"
+      },
+      "messageTimestamp": 1751546283,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.275Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AFEA218E19C5D4C66B6"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.429Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A9E668BEFD3F44422A0"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.572Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AF53DDFEE9F044DA9A3"
+      },
+      "messageTimestamp": 1751546284,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.726Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A000FE7C9CB2C5AE1BB"
+      },
+      "messageTimestamp": 1751546285,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:05.871Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AFB3FEAF9C115EF8189"
+      },
+      "messageTimestamp": 1751546285,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:06.095Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A488FA905C4E9B65BBA"
+      },
+      "messageTimestamp": 1751546285,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:06.340Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A35232CF35F9C543564"
+      },
+      "messageTimestamp": 1751546286,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:06.490Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A8241F4E6AFE64966D7"
+      },
+      "messageTimestamp": 1751546286,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:06.643Z",
+    "sessao": "5511953142057",
+    "usuario": "5511950794438@s.whatsapp.net",
+    "nome": "Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "5511950794438@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AE107CA110B7540C9F8"
+      },
+      "messageTimestamp": 1751546286,
+      "pushName": "Vitor",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:08.771Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AA3BC2E0358CAEEF350"
+      },
+      "messageTimestamp": 1751546288,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:08.918Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A6BE1EFB657A5F4ECB5"
+      },
+      "messageTimestamp": 1751546288,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:09.062Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A2FE9CF8915C90DAB05"
+      },
+      "messageTimestamp": 1751546288,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:09.212Z",
+    "sessao": "5511953142057",
+    "usuario": "5511957833789@s.whatsapp.net",
+    "nome": "Vini ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "5511957833789@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AABD33FEA627197F87F"
+      },
+      "messageTimestamp": 1751546288,
+      "pushName": "Vini ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Bad MAC"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:09.890Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A108951E185FB84738E",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546289,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "status@broadcast",
+          "axolotlSenderKeyDistributionMessage": "MwivzsydBhAAGiA1VCTXFh1UEw+JxbnfP3FwFAlpv8wZHr404rDO8N+ZWyIhBTgyVyEoyOd8BujTGYpWgcRJ1G/Lc4ypaWXStTXQUpou"
+        },
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": true,
+            "id": "3A4B2D1E955C93F68697"
+          },
+          "type": "REVOKE"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "/nFc7MAZC5ckTA==",
+            "senderTimestamp": "1740614936",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642",
+            "recipientKeyIndexes": [
+              5,
+              8,
+              1
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:10.022Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Matheus",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AB6AE2834219944C1C3",
+        "participant": "5511951193328@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546289,
+      "pushName": "Matheus",
+      "broadcast": true,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "status@broadcast",
+          "axolotlSenderKeyDistributionMessage": "MwivzsydBhAAGiA1VCTXFh1UEw+JxbnfP3FwFAlpv8wZHr404rDO8N+ZWyIhBTgyVyEoyOd8BujTGYpWgcRJ1G/Lc4ypaWXStTXQUpou"
+        },
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": true,
+            "id": "3A4BBA97629D3629A960"
+          },
+          "type": "REVOKE"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "/nFc7MAZC5ckTA==",
+            "senderTimestamp": "1740614936",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642",
+            "recipientKeyIndexes": [
+              5,
+              8,
+              1
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:10.176Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": "Leo Garabetti",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3A23289E5B4ECA417090",
+        "participant": "5511991603188@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546289,
+      "pushName": "Leo Garabetti",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363041841886337@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwiGnaTxAxAAGiArZ89LRNcYF32SZ2EOT+WVulWJoptZfq87LJRAiDisVSIhBXaLmGmqg6OnJP28ZHqN/1Xaa/fBheJ7yT3M3qG9yLsc"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderTimestamp": "1751523828",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642",
+            "recipientKeyIndexes": [
+              5,
+              8,
+              1
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        },
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363041841886337@g.us",
+            "fromMe": false,
+            "id": "3A6FC22FCF83BDB51002",
+            "participant": "5511991292686@s.whatsapp.net"
+          },
+          "text": "😂",
+          "senderTimestampMs": "1751507584590"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:11.673Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "AB26E63FE94B0407CF"
+      },
+      "messageTimestamp": 1751546289,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "message": {
+        "templateMessage": {
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "fileSha256": "h7XNvsc9mw0/UZNmHXeF2Dp5ba84PM+uYS3+kFR1F74=",
+              "fileLength": "20655",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "Qhi44k+PrXITTJ8o7IGIW0bQ8goYv2lFJ9j3YnLFQmU=",
+              "fileEncSha256": "t6P/1ttsW97zeSturPoMJVnGl9durwNsJg/RDBTawRk=",
+              "directPath": "/v/t62.7118-24/32726741_1072380968186290_5699291512924595020_n.enc?ccb=11-4&oh=01_Q5Aa1wHnDeUypkt75VgIGo5Sy67VM0nNxrkfvU7TlinNC0oSOQ&oe=688AEA63&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751356560",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAFA3PEY8MlBGQUZaVVBfeMiCeG5uePWvuZHI////////////////////////////////////////////////////2wBDAVVaWnhpeOuCguv/////////////////////////////////////////////////////////////////////////wAARCAArAEgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC0zbce9J5gzjnND4GCc/hSNtGMcnt+dBLHFwDjmk8wcnBwO9IShz169qadp6ggZ/8ArUCuSFgCB60m8ZxzTcqzgkmnCNRQPUcrBulLUbAIODgk0qn3qXKzKS0H0UUVQhrKG60FQSDTqQ0AMIRcKSRS7F60FQxBIyKfQKw0IoI9qSTIwadQRkYNJq6KWhC3z8EmnLwAKjPysRShqyZZITRTV5IoppXE3YkLENjAx0pFkyOcVJRWoroj8zjOP1pQ+TjFO6UtAaBTXJC8DmnUUCKZ61IYmCbs8+lT7RnOBmlqOTuVzFdDRU4VR0AFFCgJs//Z",
+              "thumbnailDirectPath": "/v/t62.35850-24/33421540_1238613687808615_3746059351154775774_n.enc?ccb=11-4&oh=01_Q5Aa1wFvQiFqs3YNYM0gxIBZC8wRhuEusYRQTstu5L1xTkw3vw&oe=688B0587&_nc_sid=5e03e0",
+              "thumbnailSha256": "mrnUzseYp4n0qKmft9YKYyLrNA7Rde+samIUU5NxZWc=",
+              "thumbnailEncSha256": "w1ouNVEHvK8ViCClEYP9LTfHO370hyBNpC3BcTJtDwQ="
+            },
+            "hydratedContentText": "*Chegou no seu país/região*\n\nO seu pedido 8201919389610598, com 2024 Winols de venda quen... incluído, chegou ao seu país/região.\n\nClique para acompanhar o status da entrega: https://s.click.aliexpress.com/e/_okbKewC",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear pedido",
+                  "url": "https://w.meta.me/s/1OJKUpajzIsA35X"
+                },
+                "index": 0
+              }
+            ],
+            "templateId": "3119587164865915"
+          },
+          "templateId": "3119587164865915"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "kQKHmnuj7HDGkA==",
+            "recipientTimestamp": "1751543964",
+            "recipientKeyIndexes": [
+              0,
+              8
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:12.808Z",
+    "sessao": "5511953142057",
+    "usuario": "8619357117085@s.whatsapp.net",
+    "nome": "8619357117085",
+    "payload": {
+      "key": {
+        "remoteJid": "8619357117085@s.whatsapp.net",
+        "fromMe": false,
+        "id": "ECF0AA5AF31BB9245D"
+      },
+      "messageTimestamp": 1751546292,
+      "pushName": "8619357117085",
+      "broadcast": false,
+      "verifiedBizName": "AliExpress Orders",
+      "message": {
+        "templateMessage": {
+          "hydratedTemplate": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "fileSha256": "r1WQNv4awVlVLTXBCAX3WYe671gqImKm13PqxvRC1i4=",
+              "fileLength": "21356",
+              "height": 319,
+              "width": 528,
+              "mediaKey": "gf8MZrKaJ6VXNEyi4ax+VbY959nMUIqPONSRiYUM30E=",
+              "fileEncSha256": "HWJXU2ZsybO9rT47AT7HxKU1ElevIGOmYj6KMEqsPzA=",
+              "directPath": "/v/t62.7118-24/34531328_4081339132131721_2549777345095514159_n.enc?ccb=11-4&oh=01_Q5Aa1wGqbLLgOfCpZb_qlPsWfG7RwZQj478vlDWswCsWOHypDQ&oe=688CC466&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1751466582",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAFA3PEY8MlBGQUZaVVBfeMiCeG5uePWvuZHI////////////////////////////////////////////////////2wBDAVVaWnhpeOuCguv/////////////////////////////////////////////////////////////////////////wAARCAArAEgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC077ce9J5gHXP4UrgcEkjHTFNITGex/rQS7ji4GOvNJ5g7A9aQMrYJ4OKT5BjrQFx4cEH260nmLjPP5U0bdpAOCRShEYcZoFdi+YOevFOByAR3pjqABx1PrTlPAFK6vYpJjqKKKYCMu7vjFIUBAHIxTqQ0ARlUVhk4yKd5Yx1NBUMQSMin0CsM8tffvSH5OnOepNPpGG5SDSew0kROWfocYp4qLODg07dWTZoSbjmikTls0VpHVEMcWIbGBjpSLJkc4qSiqHdEfmcZx+tKHycYp3SloDQKa5IXIFOooEU+SfWnsjIoJqfauc4GaUgEYPSo5CuYiiOTRUoUL0GKKcVZCZ//2Q==",
+              "thumbnailDirectPath": "/v/t62.35850-24/515548420_1412212859898374_2325349684561078610_n.enc?ccb=11-4&oh=01_Q5Aa1wG-q70bndzkv_WTwLKs8mvu3xBECN2bCDNQSssV8vtppA&oe=688CB757&_nc_sid=5e03e0",
+              "thumbnailSha256": "ZTZTJ6Jwdyx3sWl/Fy+za/zF0BBlIeICvTya1x7S2QA=",
+              "thumbnailEncSha256": "xsaK7L247GHqhnzqUMT8OgH4pgmKVDWMXqaF9CSJ3Wg="
+            },
+            "hydratedContentText": "*Pedido saiu do armazém da transportadora*\n\nOlá, Alexander CastinoFeitosa, Seu pedido 8201919389610598 acabou de sair do armazém da transportadora no país/região de destino e está a caminho da entrega. Toque para ver mais atualizações.",
+            "hydratedButtons": [
+              {
+                "urlButton": {
+                  "displayText": "Rastrear entrega",
+                  "url": "https://w.meta.me/s/1Y6loSJxgeYEbaW"
+                },
+                "index": 0
+              }
+            ],
+            "templateId": "1629485364386901"
+          },
+          "templateId": "1629485364386901"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "kQKHmnuj7HDGkA==",
+            "recipientTimestamp": "1751543964",
+            "recipientKeyIndexes": [
+              0,
+              8
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:38:14.386Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Hugo Cardoso",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A9E3EB690B985F75EB1",
+        "participant": "5511962398838@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546293,
+      "pushName": "Hugo Cardoso",
+      "broadcast": true,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "status@broadcast",
+          "axolotlSenderKeyDistributionMessage": "Mwiek4EKEAAaIEYdRaIEiPy52EEHc6lumZdiZnvF7k1qAbXg6c0KrNl0IiEFKmd0sQzD456OB3h/YoDk4lBrfvXN9BISCrQY7DAAwRM="
+        },
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": true,
+            "id": "3A408274050490B447F6"
+          },
+          "type": "REVOKE"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderTimestamp": "1751545965",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751543964",
+            "recipientKeyIndexes": [
+              5,
+              8,
+              1
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:40:44.845Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": "Thiago Ribeiro ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3A6FC22FCF83BDB51002",
+        "participant": "5511991292686@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546444,
+      "pushName": "Thiago Ribeiro ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:40:47.876Z",
+    "sessao": "5511953142057",
+    "usuario": "120363041841886337@g.us",
+    "nome": "Thiago Ribeiro ✌🏻",
+    "payload": {
+      "key": {
+        "remoteJid": "120363041841886337@g.us",
+        "fromMe": false,
+        "id": "3A6FC22FCF83BDB51002",
+        "participant": "5511991292686@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751546447,
+      "pushName": "Thiago Ribeiro ✌🏻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T12:54:58.658Z",
+    "sessao": "5511953142057",
+    "usuario": "5511948111546@s.whatsapp.net",
+    "nome": "Geovanna 💕",
+    "payload": {
+      "key": {
+        "remoteJid": "5511948111546@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3EB057ED9D0A7EC3C8369B"
+      },
+      "messageTimestamp": 1751547298,
+      "pushName": "Geovanna 💕",
+      "broadcast": false,
+      "message": {
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "T4YQoncehu0hHw==",
+            "senderTimestamp": "1751545676",
+            "senderAccountType": "E2EE",
+            "receiverAccountType": "E2EE",
+            "recipientKeyHash": "5MZC55PH1kToHg==",
+            "recipientTimestamp": "1751543964"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageAddOnDurationInSecs": 2592000
+        },
+        "pinInChatMessage": {
+          "key": {
+            "remoteJid": "5511953142057@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3EB05E7A7D05B6C7ED6C86"
+          },
+          "type": "PIN_FOR_ALL",
+          "senderTimestampMs": "1751547297303"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T12:59:50.739Z",
+    "sessao": "5511953142057",
+    "usuario": "551178927753-1462799684@g.us",
+    "nome": "Aleksandra 😘",
+    "payload": {
+      "key": {
+        "remoteJid": "551178927753-1462799684@g.us",
+        "fromMe": false,
+        "id": "DBA8B90F3E85224F7D6DCEBF44237152",
+        "participant": "5511984652670@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751547590,
+      "pushName": "Aleksandra 😘",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T13:06:38.961Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Eletrônica Transreis 🇧🇷",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "917B2A745430E574C9F9369B37DAA3B0",
+        "participant": "5511975757890@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751547998,
+      "pushName": "Eletrônica Transreis 🇧🇷",
+      "broadcast": true,
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": true,
+            "id": "ECA35DF7A78804C27D9A0D5F1C4E3CED"
+          },
+          "type": "REVOKE"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T13:22:24.528Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Leonardo",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A0C915E16E63033AA9C",
+        "participant": "5511997014170@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751548944,
+      "pushName": "Leonardo",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T13:22:29.048Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Leonardo",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A0C915E16E63033AA9C",
+        "participant": "5511997014170@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751548948,
+      "pushName": "Leonardo",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T13:28:55.922Z",
+    "sessao": "5511953142057",
+    "usuario": "5511948111546@s.whatsapp.net",
+    "nome": "Geovanna 💕",
+    "payload": {
+      "key": {
+        "remoteJid": "5511948111546@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3EB0E8C67B783D9E0C67F5"
+      },
+      "messageTimestamp": 1751549335,
+      "pushName": "Geovanna 💕",
+      "broadcast": false,
+      "message": {
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "T4YQoncehu0hHw==",
+            "senderTimestamp": "1751545676",
+            "senderAccountType": "E2EE",
+            "receiverAccountType": "E2EE",
+            "recipientKeyHash": "5MZC55PH1kToHg==",
+            "recipientTimestamp": "1751543964"
+          },
+          "deviceListMetadataVersion": 2
+        },
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "5511948111546@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3EB055ACA5DA734425FC9A"
+          },
+          "text": "❤️",
+          "senderTimestampMs": "1751549333000"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T13:39:52.255Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "~aysllan 🐉",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "76522A76850AC77CC31B621991E1FCFE",
+        "participant": "5511951796380@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751549991,
+      "pushName": "~aysllan 🐉",
+      "broadcast": false,
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363211445594749@g.us",
+            "fromMe": true,
+            "id": "C71F1A11A70BBF4642980EDFE775FD9F"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Só a flecha"
+          },
+          "timestampMs": "1751549991593"
+        },
+        "messageContextInfo": {
+          "messageSecret": "fUUH/pxxPEmv8DR441KSfnJIPENLky8zaY5lar0GpIc="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T13:42:13.020Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "Jojo 🌻",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3AE96DBF8EE51F4E9B57",
+        "participant": "5511960705933@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751550132,
+      "pushName": "Jojo 🌻",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/515783482_628691980236431_8301680554063806760_n.enc?ccb=11-4&oh=01_Q5Aa1wEFXb_Sk7fYWvbEnfBX8abmJqfSLdzdFsdvR9xqg6330A&oe=688DE80D&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "4i1qTPYX0oz2boWKfsi6QKVY4pMlJE/Ytf1nTp5QpnI=",
+          "fileEncSha256": "CaS0e6A913dT44hcIMw30b4+OjtWwA+l/wTgsbsv7TI=",
+          "mediaKey": "qksNze2RnfPflj11Rqe/Pmj2pZMFcXZVnhIOo4ZUoUs=",
+          "mimetype": "image/webp",
+          "height": 512,
+          "width": 512,
+          "directPath": "/v/t62.15575-24/515783482_628691980236431_8301680554063806760_n.enc?ccb=11-4&oh=01_Q5Aa1wEFXb_Sk7fYWvbEnfBX8abmJqfSLdzdFsdvR9xqg6330A&oe=688DE80D&_nc_sid=5e03e0",
+          "fileLength": "431112",
+          "mediaKeyTimestamp": "1751550130",
+          "firstFrameLength": 430716,
+          "firstFrameSidecar": "gCKQnUZwayvpxQ==",
+          "isAnimated": true,
+          "stickerSentTs": "1751550130726",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "sSzLYmq/keG9ahVCjDuosI3IP21QyQqG2Wn7Z8dLzVI="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:00:32.029Z",
+    "sessao": "5511947228615",
+    "usuario": "204771323555932@lid",
+    "nome": "Jojo 🌻",
+    "payload": {
+      "key": {
+        "remoteJid": "204771323555932@lid",
+        "fromMe": false,
+        "id": "3AE656130AD9CEEC498E"
+      },
+      "messageTimestamp": 1751551231,
+      "pushName": "Jojo 🌻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T14:00:37.563Z",
+    "sessao": "5511947228615",
+    "usuario": "204771323555932@lid",
+    "nome": "Jojo 🌻",
+    "payload": {
+      "key": {
+        "remoteJid": "204771323555932@lid",
+        "fromMe": false,
+        "id": "3AE656130AD9CEEC498E"
+      },
+      "messageTimestamp": 1751551237,
+      "pushName": "Jojo 🌻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T14:00:38.195Z",
+    "sessao": "5511947228615",
+    "usuario": "204771323555932@lid",
+    "nome": "Jojo 🌻",
+    "payload": {
+      "key": {
+        "remoteJid": "204771323555932@lid",
+        "fromMe": false,
+        "id": "3AE656130AD9CEEC498E"
+      },
+      "messageTimestamp": 1751551237,
+      "pushName": "Jojo 🌻",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T14:04:39.536Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A5FAF6B758975663C7E",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551479,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363211445594749@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwjum/n1AhAiGiAMOlIslkrJ/t0ofXv8MGcoTAzBscGb9lR2q/NsIMH/JSIhBYYPByFcspV5U1fw2qfu06xwODcwixkhfgq41X30/Co7"
+        },
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/33340234_616633634254361_5471159609038661482_n.enc?ccb=11-4&oh=01_Q5Aa1wFeL5hWXtzN9Gs5WsyHefxiAsQKQLH5p7F7gptrWKYJyw&oe=688DEE29&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "vWX09NDL9oJFHc6Wtq/3RB8qUBe5lYBOKmkoibj9k18=",
+          "fileEncSha256": "nSlS74ztVCoaNPrvDEQ07nHvYsOcJdaYEI71ClIeqjg=",
+          "mediaKey": "ocfAKTYiK+Ac7Ye2UdFWJG73sXK2g97apzkbUMRGB94=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/33340234_616633634254361_5471159609038661482_n.enc?ccb=11-4&oh=01_Q5Aa1wFeL5hWXtzN9Gs5WsyHefxiAsQKQLH5p7F7gptrWKYJyw&oe=688DEE29&_nc_sid=5e03e0",
+          "fileLength": "488512",
+          "mediaKeyTimestamp": "1751412074",
+          "firstFrameLength": 488120,
+          "firstFrameSidecar": "v9XNDnvVLeqwWA==",
+          "isAnimated": true,
+          "contextInfo": {
+            "stanzaId": "3AC634ABA57CEE9612E1",
+            "participant": "5511958280851@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Fosforo riscado"
+            }
+          },
+          "stickerSentTs": "1751551478022",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "Ujs4pN68/Vs4UknJHlO5N2ZBYmP19VWsILBGQmKaHC4="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:11.858Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A6748041599A958C70B",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551511,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/25471426_726833123433411_7153015238300785260_n.enc?ccb=11-4&oh=01_Q5Aa1wGym90TyeCo3JjrwzGDnkGOEjY35R8Cnn7gXknwdf5VEw&oe=688DF300&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "bQlrFA2TpGUZGwGjo5y/LRG3W7l124dOn04oLVOvbOM=",
+          "fileEncSha256": "vw6deSJ5skibQ6dpIZavmwOeIlaNd2nS+YWvMVDpLg8=",
+          "mediaKey": "4pYbAtNIajLOa9K4LVV8UabDPXlzw3AhvhV5lXRuHmo=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/25471426_726833123433411_7153015238300785260_n.enc?ccb=11-4&oh=01_Q5Aa1wGym90TyeCo3JjrwzGDnkGOEjY35R8Cnn7gXknwdf5VEw&oe=688DF300&_nc_sid=5e03e0",
+          "fileLength": "105786",
+          "mediaKeyTimestamp": "1751551507",
+          "isAnimated": false,
+          "contextInfo": {
+            "stanzaId": "3AE96DBF8EE51F4E9B57",
+            "participant": "5511960705933@s.whatsapp.net",
+            "quotedMessage": {
+              "stickerMessage": {
+                "url": "https://mmg.whatsapp.net/v/t62.15575-24/515783482_628691980236431_8301680554063806760_n.enc?ccb=11-4&oh=01_Q5Aa1wEFXb_Sk7fYWvbEnfBX8abmJqfSLdzdFsdvR9xqg6330A&oe=688DE80D&_nc_sid=5e03e0&mms3=true",
+                "fileSha256": "4i1qTPYX0oz2boWKfsi6QKVY4pMlJE/Ytf1nTp5QpnI=",
+                "fileEncSha256": "CaS0e6A913dT44hcIMw30b4+OjtWwA+l/wTgsbsv7TI=",
+                "mediaKey": "qksNze2RnfPflj11Rqe/Pmj2pZMFcXZVnhIOo4ZUoUs=",
+                "mimetype": "image/webp",
+                "directPath": "/v/t62.15575-24/515783482_628691980236431_8301680554063806760_n.enc?ccb=11-4&oh=01_Q5Aa1wEFXb_Sk7fYWvbEnfBX8abmJqfSLdzdFsdvR9xqg6330A&oe=688DE80D&_nc_sid=5e03e0",
+                "fileLength": "431112",
+                "mediaKeyTimestamp": "1751550130",
+                "firstFrameLength": 430716,
+                "firstFrameSidecar": "gCKQnUZwayvpxQ==",
+                "isAnimated": true,
+                "stickerSentTs": "1751550130726",
+                "isAvatar": false,
+                "isAiSticker": false,
+                "isLottie": false,
+                "accessibilityLabel": ""
+              }
+            }
+          },
+          "stickerSentTs": "1751551506864",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "DKJnBhHn6yFHKht0DXChiQjxHZ6a0tR6YV8usAcEBEc="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:12.170Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A90BF809FA86ACD54D0",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551511,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/25431640_1229400255052014_3557449555781900730_n.enc?ccb=11-4&oh=01_Q5Aa1wHc1dVAuT3BQi9lKx-LAgxeHlJV4icfbq_goQjn3srl5A&oe=688E0577&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "y1hcWHX9UMUuYulcIphvKY4xB/wXIR3sVTGny2P41ko=",
+          "fileEncSha256": "CgnJhP8Hfh0EiiDJm/gg9+gZdB+HHD/FjuV4FY0ZHv8=",
+          "mediaKey": "+drJixzU/UhQFOeSqxGpIkME9MOpv785FLjxpS8amyM=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/25431640_1229400255052014_3557449555781900730_n.enc?ccb=11-4&oh=01_Q5Aa1wHc1dVAuT3BQi9lKx-LAgxeHlJV4icfbq_goQjn3srl5A&oe=688E0577&_nc_sid=5e03e0",
+          "fileLength": "93796",
+          "mediaKeyTimestamp": "1751551507",
+          "isAnimated": false,
+          "stickerSentTs": "1751551507882",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "fLH3mJWl+adkaMNx3v+MDORpPsj8+GrY22fr08uFEXA="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:16.321Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3AF85E6D2A2BF86FBA8E",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551516,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/31827465_732153395854302_1025965383270457105_n.enc?ccb=11-4&oh=01_Q5Aa1wHEA7du1XYkdqqQXF1d1WDI7FjaBs1xiB2CB1vF9XNqmA&oe=688DEB9F&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "pPu8sU3l3Zcw+pEEkAXRpCnc0BVgvrGH8Yt5Rm3X4s4=",
+          "fileEncSha256": "2l6nZ1cSdHcU5pfY6Ba/tZpqiyaKJST3VjqUtHwOCm4=",
+          "mediaKey": "ySj8+ZjQvz0Xt6w42xzC/wGwGh/6Crn4Lx/39o9YJ10=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/31827465_732153395854302_1025965383270457105_n.enc?ccb=11-4&oh=01_Q5Aa1wHEA7du1XYkdqqQXF1d1WDI7FjaBs1xiB2CB1vF9XNqmA&oe=688DEB9F&_nc_sid=5e03e0",
+          "fileLength": "118160",
+          "mediaKeyTimestamp": "1751551514",
+          "isAnimated": false,
+          "stickerSentTs": "1751551514002",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "bUPG9ku/033qZps9ifkt5c0ZlbBdJXJYq+2wOtVXSII="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:17.949Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A3EE10BFB9E297B4556",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551517,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/515784082_2153025371789169_1558857548123194663_n.enc?ccb=11-4&oh=01_Q5Aa1wEtWBbVa_PRRbbLXoQ1ZHcjqD6aWK_tQYZ15dV-BINlvg&oe=688E18FE&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "4IPyp0rJVmGpw9FV39LBI7yRSStVFRKfJCyOfZ2NlJM=",
+          "fileEncSha256": "Y3bVyjrgznYiXL36A/9YCnbiC7syYBwQtCkdR8M5bJQ=",
+          "mediaKey": "rplKNW4bk3JUztx1HCS3eq2biXmxDxNOjsbtmLY5yMs=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/515784082_2153025371789169_1558857548123194663_n.enc?ccb=11-4&oh=01_Q5Aa1wEtWBbVa_PRRbbLXoQ1ZHcjqD6aWK_tQYZ15dV-BINlvg&oe=688E18FE&_nc_sid=5e03e0",
+          "fileLength": "144208",
+          "mediaKeyTimestamp": "1751551516",
+          "isAnimated": false,
+          "stickerSentTs": "1751551516017",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "kQJ7/l8hCSMc2vSv4NKbPHG5UfwxFTrNWxkrlGfBwqQ="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:22.925Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A58F4E51E6013AFA6AC",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551522,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/32391505_721124644148144_291348882302988298_n.enc?ccb=11-4&oh=01_Q5Aa1wGyo4CpvjoMn2uDt-zlLnM5Yd9hWew3-HKEBibxik8_yg&oe=688DF193&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "eCwXce5lD81tV4S/Hotjmdx2t4Z5mJy/Ly6QsRUE4iY=",
+          "fileEncSha256": "np6UWJyfePIDbtzj+IoQIJjp7ibuPTc8rU7YYb0fziI=",
+          "mediaKey": "vtEODai8rTWqXYBU+EczE21gsOlq02HAgJZESC+PbU0=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/32391505_721124644148144_291348882302988298_n.enc?ccb=11-4&oh=01_Q5Aa1wGyo4CpvjoMn2uDt-zlLnM5Yd9hWew3-HKEBibxik8_yg&oe=688DF193&_nc_sid=5e03e0",
+          "fileLength": "472026",
+          "mediaKeyTimestamp": "1751551520",
+          "firstFrameLength": 471620,
+          "firstFrameSidecar": "V8UWpt1kQd5jYw==",
+          "isAnimated": true,
+          "stickerSentTs": "1751551520727",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "w3BDHeg05CDKsJXp+A23q/MKXwXoEEW1Z4QiKf4/yBM="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:05:49.534Z",
+    "sessao": "5511947228615",
+    "usuario": "120363211445594749@g.us",
+    "nome": "MS",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211445594749@g.us",
+        "fromMe": false,
+        "id": "3A19AC05BD14B4A3D86E",
+        "participant": "5511951763874@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751551549,
+      "pushName": "MS",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/35861002_1170260288477448_9105906903768463802_n.enc?ccb=11-4&oh=01_Q5Aa1wGtF0jmnSfg4IvMaEzfLY5p4WPbyK04bF5mAhSDDd9CWA&oe=688DE6F6&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "tMgUCqh+1reFScKDHLvgUdJoF0t8JCUOvdwUbX9mpN4=",
+          "fileEncSha256": "U/Tt1Tt9tpoRW48cKcvpvB13gLjsaawR5hdvb2u+OEM=",
+          "mediaKey": "MMlqS42BWKVPCYmtNEUieFlMMHvBn8rnI7o5QL3oIDk=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/35861002_1170260288477448_9105906903768463802_n.enc?ccb=11-4&oh=01_Q5Aa1wGtF0jmnSfg4IvMaEzfLY5p4WPbyK04bF5mAhSDDd9CWA&oe=688DE6F6&_nc_sid=5e03e0",
+          "fileLength": "27088",
+          "mediaKeyTimestamp": "1751551547",
+          "isAnimated": false,
+          "stickerSentTs": "1751551547796",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "8ooEc62mcVrbjD8cypzyvnyG5I4JXeeSty1gcUHZmz4="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:36:58.632Z",
+    "sessao": "5511947228615",
+    "usuario": "5511993089058@s.whatsapp.net",
+    "nome": "Brenda Souza",
+    "payload": {
+      "key": {
+        "remoteJid": "5511993089058@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A7E32562618590F8720"
+      },
+      "messageTimestamp": 1751553418,
+      "pushName": "Brenda Souza",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/41014862_1223667235904237_5904829867264923057_n.enc?ccb=11-4&oh=01_Q5Aa1wGARE460wpai9li2vX-MN8PufRlv3zayLR0H_kjm1Immg&oe=688E1C97&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "MTf7wImZKLQiUtjpYfBXNTH8t368YlxJYZt1UhZhwko=",
+          "fileEncSha256": "uxzG0uxFL/Qr6y4K6HGL/k4R5wR1GrzkWzv1gVbHP8o=",
+          "mediaKey": "J6t/vs3xJkvkqlrKMC7x2VwCqAA+yntOdHvLdkflc+I=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/41014862_1223667235904237_5904829867264923057_n.enc?ccb=11-4&oh=01_Q5Aa1wGARE460wpai9li2vX-MN8PufRlv3zayLR0H_kjm1Immg&oe=688E1C97&_nc_sid=5e03e0",
+          "fileLength": "10126",
+          "mediaKeyTimestamp": "1751553417",
+          "isAnimated": false,
+          "stickerSentTs": "1751553417757",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderTimestamp": "1751552083",
+            "recipientKeyHash": "EZTtAROzhV8lKw==",
+            "recipientTimestamp": "1751546234"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "DyL4imfx490wNQK/cCyEWuAgkOKG1/UY5HtEnRCXyuU="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T14:47:12.991Z",
+    "sessao": "5511947228615",
+    "usuario": "120363038268808248@g.us",
+    "nome": "Danilo Guimarães",
+    "payload": {
+      "key": {
+        "remoteJid": "120363038268808248@g.us",
+        "fromMe": false,
+        "id": "C3C30BCFF0269E3346E45D089595A4B0",
+        "participant": "5511912264130@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751554032,
+      "pushName": "Danilo Guimarães",
+      "broadcast": false,
+      "message": {
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363038268808248@g.us",
+            "fromMe": false,
+            "id": "6D77E6F8464AC2576D26608A534DF02A",
+            "participant": "5511943769830@s.whatsapp.net"
+          },
+          "text": "🔥",
+          "senderTimestampMs": "1751554032524"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T15:35:55.269Z",
+    "sessao": "5511953142057",
+    "usuario": "120363162890032204@newsletter",
+    "nome": null,
+    "payload": {
+      "key": {
+        "remoteJid": "120363162890032204@newsletter",
+        "fromMe": false,
+        "id": "3EB033206840079E6EA8F0"
+      },
+      "messageTimestamp": "1751554376",
+      "messageStubType": "REVOKE",
+      "messageStubParameters": [
+        "3EB033206840079E6EA8F0"
+      ],
+      "revokeMessageTimestamp": "1751554884",
+      "newsletterServerId": "14029",
+      "isMentionedInStatus": false
+    }
+  },
+  {
+    "data": "2025-07-03T15:37:46.705Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Agt Motos",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A7904E51E867B7E225C",
+        "participant": "5511984922805@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751557066,
+      "pushName": "Agt Motos",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T15:37:47.447Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Agt Motos",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A7904E51E867B7E225C",
+        "participant": "5511984922805@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751557067,
+      "pushName": "Agt Motos",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-03T15:37:48.596Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Agt Motos",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3A7904E51E867B7E225C",
+        "participant": "5511984922805@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751557068,
+      "pushName": "Agt Motos",
+      "broadcast": true,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "status@broadcast",
+          "axolotlSenderKeyDistributionMessage": "MwiI4839BRAAGiBxWXaY7T1C6/IGWSq2uq+i38B+mH/Utsd8Pn3ywQZ/6iIhBV4Lszj1COhNMOI2Mlslhhm9Lt0AcUTmHzYUZ3ROI5tF"
+        },
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": true,
+            "id": "3A8EF98F806BF3C07CAD"
+          },
+          "type": "REVOKE"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "pH0y5GrkkD4qfA==",
+            "senderTimestamp": "1750463418",
+            "recipientKeyHash": "S0cFN/YrU3aIJg==",
+            "recipientTimestamp": "1751473642",
+            "recipientKeyIndexes": [
+              5,
+              8,
+              1
+            ]
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T15:56:42.269Z",
+    "sessao": "5511953142057",
+    "usuario": "551178927753-1462799684@g.us",
+    "nome": "Wagner",
+    "payload": {
+      "key": {
+        "remoteJid": "551178927753-1462799684@g.us",
+        "fromMe": false,
+        "id": "3F174604BF226C9789AA",
+        "participant": "5511992986633@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751558202,
+      "pushName": "Wagner",
+      "broadcast": false,
+      "message": {
+        "contactMessage": {
+          "displayName": "Júlio CENTRALCRED",
+          "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:CENTRALCRED;Júlio;;;\nFN:Júlio CENTRALCRED\nTEL;type=CELL;waid=5511956387055:+55 11 95638-7055\nEND:VCARD",
+          "contextInfo": {
+            "expiration": 0
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T17:00:27.709Z",
+    "sessao": "5511947228615",
+    "usuario": "120363376953480305@g.us",
+    "nome": "Bia",
+    "payload": {
+      "key": {
+        "remoteJid": "120363376953480305@g.us",
+        "fromMe": false,
+        "id": "3A969015A43F0F6CA0C4",
+        "participant": "5511986230921@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751562027,
+      "pushName": "Bia",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363376953480305@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwjv47+hBBALGiBMNUjn5L6NedLBo/UT7rgRssUjNpSThtXE5G6UNejFCCIhBd0SdipTVVKBdABEOAa/3ka6SJftpKUGrPrFeBl9rfwg"
+        },
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/516022279_1452929509056924_8302353210706754125_n.enc?ccb=11-4&oh=01_Q5Aa1wFyw7mJL0AHl_-o4FpQhJrFMWh0fCUpIsQYyKO45VfblA&oe=688E1E70&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "FuitSvSpU2ulkmQNgXWxdy2J1yPE/8kJAHoMgxYyEjw=",
+          "fileEncSha256": "cKrnV5wQ533e6dEinGSlJr3cAwOk+VGczHZYtuyXJak=",
+          "mediaKey": "IvrwZvWKVhBX40pKiP0T+r/koY6Y66dfGRZSoenFKAU=",
+          "mimetype": "image/webp",
+          "height": 512,
+          "width": 512,
+          "directPath": "/v/t62.15575-24/516022279_1452929509056924_8302353210706754125_n.enc?ccb=11-4&oh=01_Q5Aa1wFyw7mJL0AHl_-o4FpQhJrFMWh0fCUpIsQYyKO45VfblA&oe=688E1E70&_nc_sid=5e03e0",
+          "fileLength": "364708",
+          "mediaKeyTimestamp": "1751562025",
+          "firstFrameLength": 364534,
+          "firstFrameSidecar": "qoO4G6pOrqg5ow==",
+          "isAnimated": true,
+          "stickerSentTs": "1751562025674",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "BgVol2PZF9VGrNs2W7Om6LMe378xKqvjIYneuGaCf7w="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T18:19:17.010Z",
+    "sessao": "5511947228615",
+    "usuario": "120363376953480305@g.us",
+    "nome": "~aysllan 🐉",
+    "payload": {
+      "key": {
+        "remoteJid": "120363376953480305@g.us",
+        "fromMe": false,
+        "id": "F59A79056FF76EFCF6FC9FC74267C87C",
+        "participant": "5511951796380@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751566756,
+      "pushName": "~aysllan 🐉",
+      "broadcast": false,
+      "message": {
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363376953480305@g.us",
+            "fromMe": false,
+            "id": "3AF54AA2E521293E9EE0",
+            "participant": "5511986230921@s.whatsapp.net"
+          },
+          "text": "❤️",
+          "senderTimestampMs": "1751566755463"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T18:28:33.549Z",
+    "sessao": "5511947228615",
+    "usuario": "120363376953480305@g.us",
+    "nome": "Vini",
+    "payload": {
+      "key": {
+        "remoteJid": "120363376953480305@g.us",
+        "fromMe": false,
+        "id": "3A705385F8F36CA80455",
+        "participant": "5511958280851@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751567313,
+      "pushName": "Vini",
+      "broadcast": false,
+      "message": {
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/21432252_2090840541410944_4288234145500614994_n.enc?ccb=11-4&oh=01_Q5Aa1wEm1tQgi_IWcHSSPnbWdVS6yJp4DJFfILmxTmXWioeI-Q&oe=688E577E&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "6T/LXhgJjVGasAm9PiWtAbRH0/l8PsgftiayalbIMVU=",
+          "fileEncSha256": "xa0DCVz0EUf1c57vNlfwne7GFY+t+pkuovbIGeEQQ3g=",
+          "mediaKey": "hx7mL+2MtNDHKdFYQk+F/3d9b8cCvH5gynfRnNlWm1c=",
+          "mimetype": "image/webp",
+          "directPath": "/v/t62.15575-24/21432252_2090840541410944_4288234145500614994_n.enc?ccb=11-4&oh=01_Q5Aa1wEm1tQgi_IWcHSSPnbWdVS6yJp4DJFfILmxTmXWioeI-Q&oe=688E577E&_nc_sid=5e03e0",
+          "fileLength": "127612",
+          "mediaKeyTimestamp": "1751567312",
+          "isAnimated": false,
+          "stickerSentTs": "1751567312398",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "accessibilityLabel": ""
+        },
+        "messageContextInfo": {
+          "messageSecret": "Io52PEyHFsdrKEWKGJKCqkqmFh9UweWk9/E91jpnX7U="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-03T18:29:34.619Z",
+    "sessao": "5511947228615",
+    "usuario": "120363376953480305@g.us",
+    "nome": "~aysllan 🐉",
+    "payload": {
+      "key": {
+        "remoteJid": "120363376953480305@g.us",
+        "fromMe": false,
+        "id": "94E014C43E159DCDCDD3C2574B986B70",
+        "participant": "5511951796380@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751567374,
+      "pushName": "~aysllan 🐉",
+      "broadcast": false,
+      "message": {
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363376953480305@g.us",
+            "fromMe": false,
+            "id": "3A39C48D326C61D68632",
+            "participant": "5511958280851@s.whatsapp.net"
+          },
+          "text": "😂",
+          "senderTimestampMs": "1751567373756"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-04T14:29:04.860Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Gabriel Araujo",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD0F6DB3D40D365BBF2",
+        "participant": "5511940799030@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751639337,
+      "pushName": "Gabriel Araujo",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-04T14:29:30.985Z",
+    "sessao": "5511953142057",
+    "usuario": "status@broadcast",
+    "nome": "Gabriel Araujo",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "3AD0F6DB3D40D365BBF2",
+        "participant": "5511940799030@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751639370,
+      "pushName": "Gabriel Araujo",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-04T18:50:41.329Z",
+    "sessao": "5511913792005",
+    "usuario": "5511953142057@s.whatsapp.net",
+    "nome": "Alex Castino",
+    "payload": {
+      "key": {
+        "remoteJid": "5511953142057@s.whatsapp.net",
+        "fromMe": false,
+        "id": "78E026603D9334C4D19D34913DD2B0FD"
+      },
+      "messageTimestamp": 1751655041,
+      "pushName": "Alex Castino",
+      "broadcast": false,
+      "message": {
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "JRykcdwuZkN6eA==",
+            "senderTimestamp": "1751642109",
+            "recipientKeyHash": "FoSVBfMC6TZzlg==",
+            "recipientTimestamp": "1751654575"
+          },
+          "deviceListMetadataVersion": 2
+        },
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "5511953142057@s.whatsapp.net",
+            "fromMe": false,
+            "id": "01B7B1ECF00DE51132E72F5878DAB484"
+          },
+          "text": "👍🏼",
+          "senderTimestampMs": "1751655041038"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,219 @@
+type: collection.insomnia.rest/5.0
+name: API Baileys
+meta:
+  id: wrk_415a587673874a3bbd343bcc2c6753f9
+  created: 1751461146237
+  modified: 1751654819289
+collection:
+  - url: http://localhost:3002/api/session/5511913792005
+    name: Criar Sessao de WhatsApp
+    meta:
+      id: req_dd3db2d590e749afb2f1d1eefc8e621d
+      created: 1751461146315
+      modified: 1751642127818
+      isPrivate: false
+      sortKey: -1751461146315
+    method: POST
+    body:
+      mimeType: application/json
+      text: |
+        {
+          "webhook": "https://seuservidor.com/webhook/cliente123"
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.2.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:3002/api/session/5511953142057/send
+    name: Enviar Mensagem WhatsApp
+    meta:
+      id: req_5a531123028d49c7a154f47c49909343
+      created: 1751465283810
+      modified: 1751654802736
+      isPrivate: false
+      sortKey: -1751465283810
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+          "to": "5511948111546@s.whatsapp.net",
+          "message": "Olá, esta é uma mensagem de teste!"
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.2.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:3002/api/sessions
+    name: Ver Todas Sessoes Ativas
+    meta:
+      id: req_5874a0fead6d466181e78217d4d08cfa
+      created: 1751469424539
+      modified: 1751654795546
+      isPrivate: false
+      sortKey: -1751469424539
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/11.2.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://crm.kvoip.com.br/whatsapp/webhook/69c6c3a4-f795-4118-91ab-83db863f2716
+    name: Teste de Envio
+    meta:
+      id: req_31f4a3fd25d940e68a90d9f55868b7e6
+      created: 1751471914102
+      modified: 1751474148443
+      isPrivate: false
+      sortKey: -1751471914102
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+            "object": "whatsapp_business_account",
+            "entry": [
+                {
+                    "id": "3EB066BBCA1A038AF67AE0",
+                    "changes": [
+                        {
+                            "value": {
+                                "messaging_product": "whatsapp",
+                                "metadata": {
+                                    "display_phone_number": "5511953142057",
+                                    "phone_number_id": "5511953142057"
+                                },
+                                "contacts": [
+                                    {
+                                        "profile": {
+                                            "name": "Alex Castino"
+                                        },
+                                        "wa_id": "5511913792005"
+                                    }
+                                ],
+                                "messages": [
+                                    {
+                                        "from": "5511913792005",
+                                        "id": "3EB066BBCA1A038AF67AE0",
+                                        "timestamp": "1751473805",
+                                        "text": {
+                                            "body": "oi"
+                                        },
+                                        "type": "text"
+                                    }
+                                ]
+                            },
+                            "field": "messages"
+                        }
+                    ]
+                }
+            ]
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.2.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: localhost:3002/session/5511953142057
+    name: New Request
+    meta:
+      id: req_e89c3f9c775e4aa18da376ee52fcd62b
+      created: 1751544758368
+      modified: 1751545646340
+      isPrivate: false
+      sortKey: -1751544758368
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+        	"host": "teste"
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.1.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+  - url: http://localhost:3002/api/session/5511913792005
+    name: Criar Sessao de WhatsApp-Dinamico
+    meta:
+      id: req_0fce07538049492a986e81b5c0f3a0b3
+      created: 1751654381292
+      modified: 1751654562311
+      isPrivate: false
+      sortKey: -1751380143395.5
+    method: POST
+    body:
+      mimeType: application/json
+      text: |-
+        {
+          "webhook": "https://seuservidor.com/webhook/cliente123",
+          "workspaceID": "daf8e4ad-0c66-462d-8ed1-8e45d645b35b",
+          "canalID": "012487e5-cf1a-4a25-b12c-5b3163f70126"
+        }
+    headers:
+      - name: Content-Type
+        value: application/json
+      - name: User-Agent
+        value: insomnia/11.2.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_fe005e91c3b4d5439c9567888e0a15a71d64a923
+    created: 1751544722416
+    modified: 1751544722416
+environments:
+  name: Base Environment
+  meta:
+    id: env_fe005e91c3b4d5439c9567888e0a15a71d64a923
+    created: 1751461146240
+    modified: 1751544722185
+    isPrivate: false
