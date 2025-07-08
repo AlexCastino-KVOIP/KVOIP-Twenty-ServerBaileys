@@ -150,6 +150,7 @@ export async function createSession(name) {
           if (buffer) {
             base64String = `data:${img.mimetype};base64,${buffer.toString('base64')}`;
           }
+          //console.log('Imagem: \n\n\n\n', base64String)
 
           // Monta o payload no formato esperado pela API oficial do WhatsApp (Meta), mas enviando a imagem em base64
           const payload = {
@@ -194,7 +195,7 @@ export async function createSession(name) {
               }
             ]
           };
-
+ 
           // Envia o payload para a API de destino
           try {
             //console.log(`Payload: ${JSON.stringify(payload)}`);
@@ -431,6 +432,7 @@ export async function createSession(name) {
           if (buffer) {
             base64String = `data:${audio.mimetype};base64,${buffer.toString('base64')}`;
           }
+          //console.log('\n\n Arquivo de audio: \n\n' , base64String)
 
           // Monta o payload no formato esperado, enviando o áudio em base64
           const payload = {
