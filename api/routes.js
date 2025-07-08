@@ -1,5 +1,5 @@
 import express from 'express';
-import { createSession, getSession, getAllSessions, sessionQRCodes } from '../sessions/SessionManager.js';
+import { createSession, getSession, getAllSessions, sessionQRCodes, deleteSession } from '../sessions/SessionManager.js';
 import { saveSessionConfig } from '../sessions/SessionConfigManager.js';
 import QRCode from 'qrcode';
 
@@ -19,11 +19,17 @@ router.post('/session/:id', async (req, res) => {
   }
 });
 
-router.get('/session/:id', async (req, res) => {
+router.get('/session/status/:id', async (req, res) => {
   const id = req.params.id;
   const sock = getSession(id);
   if (!sock) return res.status(404).json({ error: 'Sessão não encontrada' });
-  res.json({ session: sock });
+
+  // Retorna apenas informações simples sobre a sessão
+  res.json({
+    session: id, // Nome da sessão
+    connected: !!sock.user, // true se estiver conectada
+    user: sock.user || null // Informações do usuário autenticado, se houver
+  });
 });
 
 // Enviar mensagem
@@ -86,6 +92,17 @@ router.get('/session/:id/qr-view', (req, res) => {
 router.get('/sessions', (req, res) => {
   const all = getAllSessions();
   res.json({ sessions: all });
+});
+
+router.delete('/session/:id', (req, res) => {
+  const id = req.params.id;
+  // Remove a sessão usando a função do SessionManager
+  const removed = deleteSession(id);
+  if (removed) {
+    res.json({ message: `Sessão ${id} removida com sucesso.` });
+  } else {
+    res.status(404).json({ error: 'Sessão não encontrada.' });
+  }
 });
 
 export default router;

@@ -3150,5 +3150,3710 @@
         }
       }
     }
+  },
+  {
+    "data": "2025-07-07T19:39:39.394Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917178,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:39:43.452Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917182,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:39:47.402Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917186,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:39:51.123Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917190,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:39:54.576Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917194,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:39:59.323Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917198,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:03.889Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917203,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:08.298Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917207,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:12.909Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917212,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:17.566Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917217,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:21.420Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917220,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:25.162Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917224,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:29.050Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917228,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:32.925Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917232,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:36.767Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917236,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:40.222Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917239,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:43.849Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917243,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:47.836Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917247,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:51.330Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917250,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:54.778Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917254,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:40:58.884Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917258,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:02.581Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917262,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:06.102Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917265,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:09.600Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917269,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:14.102Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917273,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:18.627Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917278,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:22.573Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917282,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:26.310Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917285,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:30.209Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917289,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:34.046Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917293,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:37.876Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917297,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:41.716Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917301,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:45.253Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917304,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:49.528Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917308,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:52.969Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917312,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:41:56.351Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917315,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:02.569Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917322,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:06.423Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917325,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:10.457Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917329,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:13.910Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917333,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:17.718Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917337,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:21.788Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917341,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:25.231Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917344,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:28.703Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917348,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:32.105Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917351,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:35.544Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917355,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:39.107Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917358,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:42.555Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917362,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:45.940Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917365,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:51.069Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917370,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:54.971Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917374,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:42:58.914Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917378,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:02.779Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917382,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:06.512Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917385,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:10.108Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917389,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:13.623Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917393,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:17.410Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917396,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:21.387Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917400,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:24.866Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917404,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:28.349Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917407,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:31.863Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917411,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:35.317Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917414,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:38.772Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917418,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:45.047Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917424,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:49.607Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917429,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:53.194Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917432,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:43:56.658Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917436,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:00.155Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917439,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:03.595Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917443,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:07.114Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917446,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:10.556Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917450,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:14.384Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917453,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:18.666Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917458,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:22.553Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917462,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:26.428Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917465,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:29.920Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917469,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:33.785Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917473,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:37.626Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917477,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:41.445Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917480,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:45.236Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917484,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:49.298Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917488,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:53.325Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917492,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:44:57.296Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917496,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:02.612Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917501,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:06.485Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917505,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:10.351Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917509,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:13.938Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917513,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:17.605Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917517,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:21.989Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917521,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:26.805Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917526,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:30.769Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917530,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:34.640Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917534,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:38.495Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917537,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:42.364Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917541,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:46.464Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917545,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:50.382Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917549,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:54.716Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917554,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:45:58.322Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917557,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:02.354Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917561,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:06.037Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917565,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:09.473Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917568,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:13.091Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917572,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:17.139Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917576,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:21.006Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917580,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:24.873Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917584,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:29.512Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917588,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:33.475Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917592,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:36.950Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917596,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:40.776Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917600,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:44.578Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917604,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:48.403Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917607,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:52.380Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917611,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:56.331Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917615,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:46:59.801Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917619,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:04.616Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917624,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:08.444Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917627,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:12.359Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917631,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:16.229Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917635,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:20.110Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917639,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:23.914Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917643,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:28.008Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917647,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:32.277Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917651,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:35.726Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917655,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:39.152Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917658,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:42.497Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917662,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:45.826Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917665,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:49.413Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917668,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:53.795Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917673,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:47:58.354Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917677,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:01.995Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917681,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:05.614Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917685,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:09.484Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917688,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:12.933Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917692,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:16.798Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917696,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:20.258Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917699,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:24.480Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917703,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:28.239Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917707,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:31.808Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917711,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:35.256Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917714,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:38.655Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917718,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:42.204Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917721,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:45.991Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917725,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:49.416Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917728,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:53.391Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917732,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:48:56.900Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917736,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:00.359Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917739,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:03.883Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917743,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:07.325Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917746,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:10.819Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917750,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:14.334Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917753,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:17.826Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917757,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:21.895Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917761,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:25.409Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917764,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:29.294Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917768,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:32.730Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917772,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:36.595Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917776,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:40.470Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917779,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:44.351Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917783,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:48.292Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917787,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:52.186Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917791,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:49:56.206Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917795,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:00.247Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917799,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:04.148Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917803,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:08.084Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917807,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:11.988Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917811,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:15.800Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917815,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:19.444Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917818,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:22.941Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917822,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:26.562Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917825,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:29.910Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917829,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:34.775Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917833,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T19:50:37.805Z",
+    "sessao": "KVOIP",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751917837,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No SenderKeyRecord found for decryption"
+      ]
+    }
+  },
+  {
+    "data": "2025-07-07T20:03:21.860Z",
+    "sessao": "Alex",
+    "usuario": "551178927753-1462799684@g.us",
+    "nome": "João Vitor",
+    "payload": {
+      "key": {
+        "remoteJid": "551178927753-1462799684@g.us",
+        "fromMe": false,
+        "id": "D70D013A6C4A2D5C1F0A8793AC6AAA4D",
+        "participant": "5511947228615@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751918601,
+      "pushName": "João Vitor",
+      "broadcast": false,
+      "message": {
+        "conversation": "FIM EXPEDIENTE",
+        "senderKeyDistributionMessage": {
+          "groupId": "551178927753-1462799684@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwjap9vTAhAAGiDodLpF8frWfFIr4EFCYyriVp6CqTmr+UUVbrF95fjUsyIhBY7Qau1EQlqXYtfOlQOx+UbklPC6RQTqAUY5o7hN7eBD"
+        },
+        "messageContextInfo": {
+          "messageSecret": "PoIqkPhAcXLBz/ZlUAB6ysTOEHC1xyX4zMyEzxrDVao="
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-07T20:03:34.782Z",
+    "sessao": "Alex",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751918614,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363211748624431@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi2+7SoARDtBRogr9h2NJOLHiuRUkj1VvWx0XiYcbjQ/eVMGFFnuLfTsrAiIQXz9EhgJV6MMB1kyNItWM8Nrb/SovFJ9EiIY//xCvKaEw=="
+        },
+        "extendedTextMessage": {
+          "text": "imagino que o risco de bloqueio é enorme, por conta do volume de troca de mensagens",
+          "contextInfo": {
+            "stanzaId": "3EB002CF8A9A85D232184F",
+            "participant": "553183737980@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Bom dia!\n\nAlguém aqui já usou o Whaticket, com mais de 120 atendentes no mesmo número??"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-07T20:03:38.589Z",
+    "sessao": "Alex",
+    "usuario": "120363211748624431@g.us",
+    "nome": "Claudemir Todo Bom",
+    "payload": {
+      "key": {
+        "remoteJid": "120363211748624431@g.us",
+        "fromMe": false,
+        "id": "3EB096F67DE3A0F45B96F9",
+        "participant": "554999812291@s.whatsapp.net"
+      },
+      "messageTimestamp": 1751918618,
+      "pushName": "Claudemir Todo Bom",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363211748624431@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi2+7SoARDvBRogeDcvDQKGmCe3Nos9+k3i+BRCu1X7tanzSBoaXtlVEe8iIQXz9EhgJV6MMB1kyNItWM8Nrb/SovFJ9EiIY//xCvKaEw=="
+        },
+        "extendedTextMessage": {
+          "text": "imagino que o risco de bloqueio é enorme, por conta do volume de troca de mensagens",
+          "contextInfo": {
+            "stanzaId": "3EB002CF8A9A85D232184F",
+            "participant": "553183737980@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Bom dia!\n\nAlguém aqui já usou o Whaticket, com mais de 120 atendentes no mesmo número??"
+            }
+          }
+        }
+      }
+    }
   }
 ]

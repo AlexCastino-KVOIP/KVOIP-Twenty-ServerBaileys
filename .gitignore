@@ -1,0 +1,44 @@
+# Ignorar pastas específicas do projeto
+node_modules/
+sessions_data/
+sessions_config/
+arquivos_recebidos/
+
+# Ignora logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignora arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Ignora arquivos temporários e caches
+*.swp
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de build
+dist/
+build/
+
+# Ignora IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignora arquivos de coverage (testes)
+coverage/
+
+# Cache do TypeScript
+*.tsbuildinfo
+
+# Ignora lockfiles alternativos, se não forem usados
+pnpm-lock.yaml
+yarn.lock

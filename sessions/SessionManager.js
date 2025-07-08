@@ -10,6 +10,7 @@ import { getSessionConfig } from './SessionConfigManager.js';
 
 const sessions = new Map();
 const sessionQRCodes = new Map(); // Adiciona cache de QRCode
+const sessionsToBeDeleted = new Set();
 
 export async function createSession(name) {
   if (sessions.has(name)) {
@@ -48,8 +49,11 @@ export async function createSession(name) {
   sock.ev.on('connection.update', async ({ connection, lastDisconnect, qr }) => {
     if (qr) {
       sessionQRCodes.set(name, qr); // Salva o QRCode
-      console.log(`Session ${name} QR code:`);
-      QRCode.generate(qr, { small: true });
+      // Só mostra o QRCode se não estiver sendo deletada
+      if (!sessionsToBeDeleted.has(name)) {
+        console.log(`Session ${name} QR code:`);
+        QRCode.generate(qr, { small: true });
+      }
     }
     if (connection === 'open') {
       sessionQRCodes.delete(name); // Limpa QRCode após login
@@ -64,8 +68,8 @@ export async function createSession(name) {
       const shouldRestart = lastDisconnect?.error?.output?.statusCode !== 401
         || (lastDisconnect?.error?.message && lastDisconnect.error.message.includes('restart required'));
 
-      if (shouldRestart) {
-        // Aguarda 2 segundos antes de tentar reconectar
+      // Só reinicia se não estiver marcada para exclusão
+      if (shouldRestart && !sessionsToBeDeleted.has(name)) {
         setTimeout(() => createSession(name), 2000);
       }
     }
@@ -75,7 +79,7 @@ export async function createSession(name) {
       for (const message of messages) {
         let mensagem = null;
         // Tenta extrair o texto da mensagem de diferentes formas
-        if (message.message) {
+        if (message.message && !message.key.remoteJid.includes('@g.us')) {
           if (message.message.conversation) {
             mensagem = message.message.conversation;
           } else if (message.message.extendedTextMessage && message.message.extendedTextMessage.text) {
@@ -617,3 +621,47 @@ export function getAllSessions() {
 }
 
 export { sessionQRCodes }; // Exporta o cache de QRCode
+
+/**
+ * Remove uma sessão completamente: do Map, QRCode, arquivos de autenticação e configuração
+ * @param {string} name - Nome da sessão
+ * @returns {boolean} - true se removeu, false se não existia
+ */
+export function deleteSession(name) {
+  let removed = false;
+  // Marca a sessão para não ser reiniciada
+  sessionsToBeDeleted.add(name);
+  // Encerra a conexão da sessão, se existir
+  const sock = sessions.get(name);
+  if (sock && sock.ws && typeof sock.ws.close === 'function') {
+    try {
+      sock.ws.close();
+    } catch (e) {
+      console.log('Erro ao encerrar conexão da sessão:', e.message);
+    }
+  }
+  // Remove do Map de sessões
+  if (sessions.has(name)) {
+    sessions.delete(name);
+    removed = true;
+  }
+  // Remove QRCode em cache
+  if (sessionQRCodes.has(name)) {
+    sessionQRCodes.delete(name);
+  }
+  // Remove arquivos de autenticação
+  const authDir = `./sessions_data/${name}`;
+  if (fs.existsSync(authDir)) {
+    fs.rmSync(authDir, { recursive: true, force: true });
+    removed = true;
+  }
+  // Remove configuração da sessão
+  const configPath = path.join('./sessions_config', `${name}.json`);
+  if (fs.existsSync(configPath)) {
+    fs.unlinkSync(configPath);
+    removed = true;
+  }
+  // Remove a marcação após um tempo (para evitar bloqueio futuro)
+  setTimeout(() => sessionsToBeDeleted.delete(name), 5000);
+  return removed;
+}
